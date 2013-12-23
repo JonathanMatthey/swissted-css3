@@ -1,0 +1,21 @@
+
+.poster{
+	width:560px;
+	height:800px;
+}
+
+
+.the-clash{
+
+	.diamond--blue{
+		border:20px solid rgba(0,255,255,0.5);
+		width:calc(100%-40px);
+		height:calc(100%-40px);
+		margin:20px;
+	}
+	.diamond--outer{
+		width:400px;
+		height:400px;
+		-webkit-transform:rotate(45deg);
+	}
+}

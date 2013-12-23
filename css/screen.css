@@ -271,3 +271,23 @@ a:visited {
 .post pre.terminal code {
   background-color: #333;
 }
+
+/* line 2, ../_sass/posters.scss */
+.poster {
+  width: 560px;
+  height: 800px;
+}
+
+/* line 10, ../_sass/posters.scss */
+.the-clash .diamond--blue {
+  border: 20px solid rgba(0, 255, 255, 0.5);
+  width: calc(100%-40px);
+  height: calc(100%-40px);
+  margin: 20px;
+}
+/* line 16, ../_sass/posters.scss */
+.the-clash .diamond--outer {
+  width: 400px;
+  height: 400px;
+  -webkit-transform: rotate(45deg);
+}

@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "The Clash"
+date:   2013-12-23 10:41:36
+categories: poster
+---
+
+<div class="poster the-clash">
+	<div class="diamond--blue diamond--outer">
+		<div class="diamond--blue">
+			<div class="diamond--blue">
+				<div class="diamond--blue">
+					<div class="diamond--blue">
+						<div class="diamond--blue">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	the-clash
+</div>
