@@ -1,0 +1,1 @@
+Boilerplate Jekyll project using Compass
